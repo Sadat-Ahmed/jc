@@ -156,3 +156,21 @@ p {
     }
   }
   
+  .header-logo {
+    height: 150px; /* Increase the size of the logo */
+    width: auto;   /* Keep the width proportional */
+    margin-right: 15px; /* Optional: space between the logo and subtitle */
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.header-subtitle {
+    font-size: 1.2em;
+    text-align: center;
+    color: #ece7e7;
+}

@@ -5,7 +5,7 @@ function Footer() {
         <footer className="footer">
             <p>© 2024 JCARE Coalition. All Rights Reserved.</p>
             <p>
-                Built with <span style={{ color: "red" }}>❤️</span> by the community.
+                Built with <span style={{ color: "red" }}>❤️</span> for our community.
             </p>
         </footer>
     );
